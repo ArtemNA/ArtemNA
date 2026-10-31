@@ -29,6 +29,14 @@
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h4>💰 Price of Exile — <a href="https://github.com/ArtemNA/price-of-exile">PoE 1</a> · <a href="https://github.com/ArtemNA/price-of-exile-2">PoE 2</a></h4>
+      Fast price check overlay for Path of Exile 1 and 2, one app for both games: trade listings and bulk exchange, poe.ninja prices with trends and related items, item and map check, stash search presets, chat commands. Two themes (its own and Awakened PoE Trade's look), English / Ukrainian / Russian interface, auto-updates.<br>
+      Download: <a href="https://github.com/ArtemNA/price-of-exile/releases/latest">PoE 1</a> · <a href="https://github.com/ArtemNA/price-of-exile-2/releases/latest">PoE 2</a><br><br>
+      <code>Tauri</code> <code>Rust</code> <code>Angular</code> <code>Signals</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h4>📡 <a href="https://github.com/ArtemNA/AionPingMeter">AionPingMeter</a></h4>
       Overlay that shows your real in-game ping and whether lag comes from your PC, network or the game server.<br><br>
