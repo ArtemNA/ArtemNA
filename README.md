@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <h4>📡 <a href="https://github.com/ArtemNA/AionPingMeter">AionPingMeter</a></h4>
       Overlay that shows your real in-game ping and whether lag comes from your PC, network or the game server.<br><br>
-      <code>C#</code> <code>Npcap</code>
+      <code>Rust</code> <code>Npcap</code> <code>Win32</code>
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://github.com/ArtemNA/tli-tracker">tli-tracker</a></h4>
